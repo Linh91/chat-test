@@ -1,25 +1,15 @@
-# README
+# Chat-test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a chat test built using Ruby on Rails. 
 
-Things you may want to cover:
+As a person who loves to chat<br>
+So I can start a chat<br>
+I would like to be able to sign up, sign in and sign out<br>
 
-* Ruby version
+As a person who loves to chat<br>
+So I can express how I am feeling<br>
+I would like to be able to send a message<br>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# chat-test
+As a person who loves to chat<br>
+So I can see my messages<br>
+I would like to be able to view the messages<br>
