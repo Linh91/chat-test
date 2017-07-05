@@ -25,4 +25,16 @@ During the 8th week at Makers Academy, my cohort and I built [Acebook](https://g
 A strategy for me was to build a practice chat test so that once we were ready to implement the chat feature, I would be familiar with the approact to this. 
 
 ## How to run Chat
-
+1. Make sure you have ruby installed <br>
+<code>ruby -v</code><br>
+2. Make sure you have rails installed<br>
+<code>rails -v</code><br>
+3. Clone this repository<br>
+<code>git clone https://github.com/Linh91/chat-test.git</code><br>
+4. Install all dependencies<br>
+<code>bundle install</code><br>
+5. Create db and migrate schema<br>
+<code>rake db:create</code><br>
+<code>rake db:migrate</code><br>
+6. Now run application <br>
+<code>rails s</code><br>
