@@ -1,6 +1,6 @@
 # Chat-test
 
-This repository is to learn how to build a chat using Ruby on Rails.
+This repository was created to learn how to build a chat using Ruby on Rails.
 
 ![screen shot 2017-07-03 at 16 04 09](https://user-images.githubusercontent.com/17644847/27799188-29ac1f74-600c-11e7-8959-f17120518647.png)
 
