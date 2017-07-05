@@ -23,3 +23,6 @@ I would like to be able to view the messages<br>
 During the 8th week at Makers Academy, my cohort and I built [Acebook](https://github.com/makersacademy/acebook-april2017) which was also built using Rails. One of the features we wanted to implement onto Acebook was a chat feature. 
 
 A strategy for me was to build a practice chat test so that once we were ready to implement the chat feature, I would be familiar with the approact to this. 
+
+## How to run Chat
+
